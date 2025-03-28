@@ -67,11 +67,12 @@ Once the milk has been pasteurized and cooled, it is transferred to a storage ta
 When the Bottle button is pressed, the filling operation begins, and the bottle count increases in real time. A high-level alert is shown on the screen when the tank is near capacity, helping operators avoid overflows.
 
 https://github.com/user-attachments/assets/a2f4e05f-75fb-4f44-be71-78303a1fc6d6
+
 https://github.com/user-attachments/assets/8dcce27c-2110-4e41-bc2a-a8cbd92d6315
 
 
-## 🚀 Technologies Used
-PLC Programming: Ladder Logic with Siemens TIA Portal
-HMI Software: WinCC  
-Simulation Tools: PLCSIM  
+## 🚀 Technologies Used  
+PLC Programming: Ladder Logic with Siemens TIA Portal  
+HMI Software: WinCC    
+Simulation Tools: PLCSIM    
 
